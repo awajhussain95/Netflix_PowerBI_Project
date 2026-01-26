@@ -42,3 +42,5 @@ Screenshots of the dashboard:
 - Genre Analysis
 
 
+--This project is created for educational and portfolio purposes only.
+
