@@ -1,5 +1,4 @@
 # Netflix_PowerBI_Project
-PowerBI dashboard analyzing Netflix content
 This is a Power BI dashboard built to analyze Netflix’s content. The dashboard provides insights into content distribution, genres, countries, release trends, and content types (Movies vs TV Shows). The goal of this project is to demonstrate data cleaning, transformation, DAX calculations, and data visualization skills using Power BI.
 
 # Tools & Technologies Used
